@@ -9,6 +9,7 @@ def subtract(x,y):
 #Multiply implementation
 def multiply(x,y):
     return x*y #
+    #Multiply implementation success
 #Divide implementation
 def divide(x,y):
     return x/y # adding conflict master
