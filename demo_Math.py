@@ -5,6 +5,7 @@ def add(x,y):
 #Subtract implementation    
 def subtract(x,y):
     return x-y
+    #Subtract Implementation Success
 #Multiply implementation
 def multiply(x,y):
     return x*y #
